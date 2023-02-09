@@ -1,2 +1,0 @@
-# sampleRepo
-TEST GIT
